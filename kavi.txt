@@ -1,0 +1,1 @@
+#query="SELECT * FROM boarding_post WHERE city LIKE '{$search}';
