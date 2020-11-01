@@ -1,1 +1,2 @@
 #query="SELECT * FROM boarding_post WHERE city LIKE '{$search}';
+$result=mysqli_query($connection,$query);
